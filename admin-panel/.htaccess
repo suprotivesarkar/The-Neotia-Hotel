@@ -1,0 +1,11 @@
+RewriteEngine On 
+
+
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+#404 Redirect
+ErrorDocument 404 /admin-panel/404.php
+
+
+

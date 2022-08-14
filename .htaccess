@@ -1,0 +1,16 @@
+RewriteEngine On 
+
+#RewriteCond %{HTTPS} off
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+#404 Redirect
+ErrorDocument 404 /theneotiahotel/404.php
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-d    
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^rooms/([^/]*)\.php room-details.php?pkgnm=$1 [QSA,L]

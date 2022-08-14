@@ -1,0 +1,25 @@
+[18-Mar-2021 12:04:01 Asia/Kolkata] PHP Notice:  Undefined index: adminid in /home/noob4lk0ks3q/public_html/admin-panel/_auth.php on line 15
+[18-Mar-2021 07:23:32 UTC] PHP Notice:  Undefined variable: chk_auth in /home/noob4lk0ks3q/public_html/admin-panel/_menu.php on line 21
+[18-Mar-2021 07:23:32 UTC] PHP Notice:  Trying to get property 'user_name' of non-object in /home/noob4lk0ks3q/public_html/admin-panel/_menu.php on line 21
+[18-Mar-2021 07:23:32 UTC] PHP Notice:  Undefined variable: currole in /home/noob4lk0ks3q/public_html/admin-panel/_menu.php on line 33
+[18-Mar-2021 07:23:32 UTC] PHP Notice:  Undefined variable: currole in /home/noob4lk0ks3q/public_html/admin-panel/_menu.php on line 33
+[18-Mar-2021 07:23:32 UTC] PHP Notice:  Undefined variable: currole in /home/noob4lk0ks3q/public_html/admin-panel/_menu.php on line 33
+[18-Mar-2021 07:23:32 UTC] PHP Notice:  Undefined variable: currole in /home/noob4lk0ks3q/public_html/admin-panel/_menu.php on line 40
+[18-Mar-2021 07:23:32 UTC] PHP Notice:  Undefined variable: currole in /home/noob4lk0ks3q/public_html/admin-panel/_menu.php on line 40
+[18-Mar-2021 07:23:32 UTC] PHP Notice:  Undefined variable: currole in /home/noob4lk0ks3q/public_html/admin-panel/_menu.php on line 59
+[19-Mar-2021 17:58:10 Asia/Kolkata] PHP Notice:  Undefined index: adminid in /home/noob4lk0ks3q/public_html/admin-panel/_auth.php on line 15
+[20-Mar-2021 00:06:24 Asia/Kolkata] PHP Notice:  Undefined index: adminid in /home/noob4lk0ks3q/public_html/admin-panel/_auth.php on line 15
+[30-Mar-2021 17:35:04 Asia/Kolkata] PHP Notice:  Undefined variable: ad in /home/noob4lk0ks3q/public_html/admin-panel/room-facilities.php on line 101
+[30-Mar-2021 17:35:04 Asia/Kolkata] PHP Notice:  Undefined variable: ad in /home/noob4lk0ks3q/public_html/admin-panel/room-facilities.php on line 101
+[30-Mar-2021 17:35:04 Asia/Kolkata] PHP Notice:  Undefined variable: ad in /home/noob4lk0ks3q/public_html/admin-panel/room-facilities.php on line 101
+[30-Mar-2021 17:35:04 Asia/Kolkata] PHP Notice:  Undefined variable: ad in /home/noob4lk0ks3q/public_html/admin-panel/room-facilities.php on line 101
+[30-Mar-2021 17:35:04 Asia/Kolkata] PHP Notice:  Undefined variable: ad in /home/noob4lk0ks3q/public_html/admin-panel/room-facilities.php on line 101
+[30-Mar-2021 17:35:04 Asia/Kolkata] PHP Notice:  Undefined variable: ad in /home/noob4lk0ks3q/public_html/admin-panel/room-facilities.php on line 101
+[30-Mar-2021 17:35:04 Asia/Kolkata] PHP Notice:  Undefined variable: ad in /home/noob4lk0ks3q/public_html/admin-panel/room-facilities.php on line 101
+[30-Mar-2021 17:35:12 Asia/Kolkata] PHP Notice:  Undefined variable: ad in /home/noob4lk0ks3q/public_html/admin-panel/room-facilities.php on line 101
+[30-Mar-2021 17:35:12 Asia/Kolkata] PHP Notice:  Undefined variable: ad in /home/noob4lk0ks3q/public_html/admin-panel/room-facilities.php on line 101
+[30-Mar-2021 17:35:12 Asia/Kolkata] PHP Notice:  Undefined variable: ad in /home/noob4lk0ks3q/public_html/admin-panel/room-facilities.php on line 101
+[30-Mar-2021 17:35:12 Asia/Kolkata] PHP Notice:  Undefined variable: ad in /home/noob4lk0ks3q/public_html/admin-panel/room-facilities.php on line 101
+[30-Mar-2021 17:35:12 Asia/Kolkata] PHP Notice:  Undefined variable: ad in /home/noob4lk0ks3q/public_html/admin-panel/room-facilities.php on line 101
+[30-Mar-2021 17:35:12 Asia/Kolkata] PHP Notice:  Undefined variable: ad in /home/noob4lk0ks3q/public_html/admin-panel/room-facilities.php on line 101
+[30-Mar-2021 17:35:12 Asia/Kolkata] PHP Notice:  Undefined variable: ad in /home/noob4lk0ks3q/public_html/admin-panel/room-facilities.php on line 101
